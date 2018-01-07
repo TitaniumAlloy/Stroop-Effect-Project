@@ -1,7 +1,10 @@
 
 <h1>Statistics: Stroop Effect Project </h1>
-Date: 11/2017
-
+Author: Tanbir<br>
+Status: Complete<br>
+Completion Date: November 2017<br>
+<br>
+PLEASE READ THE FOLLOWING - Codes are displayed in `.md` file but in `.html` file they are hidden. Text also appears a bit distorted at the bottom because of how `.md` file interprets `.html` tags.
 
 ```python
 import pandas as pd
